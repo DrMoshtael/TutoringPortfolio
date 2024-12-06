@@ -13,7 +13,7 @@ export const HeroSection = () => {
           <Image src={memojiImage} className="size-[100px]" alt="Cartoon of Howard" />
           <div className="inline-flex items-center gap-4 bg-gray-950 border border-gray-800 rounded-lg px-4 py-1.5">
             <span className="size-2.5 bg-orange-400 rounded-full"></span>
-            <span className="font-medium">One opening left</span>
+            <span className="font-medium">Limited availability</span>
           </div>
         </div>
 
